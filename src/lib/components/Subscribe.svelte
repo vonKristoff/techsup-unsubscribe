@@ -38,7 +38,7 @@
 							id="email"
 							type="email"
 							name="email"
-							placeholder="goodbye@friend.sad"
+							placeholder="goodbye@friend.cool"
 							class="min-w-0 grow px-4 py-3 text-black placeholder:text-gray-400 focus:outline-none sm:text-sm/6 md:text-2xl"
 						/>
 					</div>
